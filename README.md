@@ -1,4 +1,6 @@
 # AFIncrementalStore
+
+[![Join the chat at https://gitter.im/colemancda/AFIncrementalStore](https://badges.gitter.im/colemancda/AFIncrementalStore.svg)](https://gitter.im/colemancda/AFIncrementalStore?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 **Core Data Persistence with AFNetworking, Done Right**
 
 AFIncrementalStore is an [`NSIncrementalStore`](http://nshipster.com/nsincrementalstore/) subclass that uses [AFNetworking](https://github.com/afnetworking/afnetworking) to automatically request resources as properties and relationships are needed. 
